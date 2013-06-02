@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Nike API class
+ * Nike+ API class
  * API Documentation: https://developer.nike.com
  */
 

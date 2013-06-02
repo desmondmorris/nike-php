@@ -3,7 +3,7 @@
 /*
 * Request
 * This classes handles the HTTP requests responsible
-* for making calls to the Nike API.
+* for making calls to the Nike+ API.
 */
 
 class Request

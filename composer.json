@@ -1,7 +1,7 @@
 {
     "name": "desmondmorris/nike-php",
     "type": "library",
-    "description": "An un-official NIke API wrapper written in PHP",
+    "description": "An un-official Nike+ API wrapper written in PHP",
     "keywords": ["nike", "fuelband"],
     "homepage": "https://github.com/desmondmorris/nike-php",
     "license" : "MIT",
