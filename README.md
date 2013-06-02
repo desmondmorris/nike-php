@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/desmondmorris/nike-php.png?branch=master)](https://travis-ci.org/desmondmorris/nike-php)
 
-locu-php
+Nike+ API PHP Wrapper 
 =========
 
-An un-official Nike API wrapper written in PHP
+An un-official Nike+ API wrapper written in PHP
 
 https://developer.nike.com
 
