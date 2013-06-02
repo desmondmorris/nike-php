@@ -57,7 +57,7 @@ class NikeTest extends PHPUnit_Framework_TestCase
 
     public function testActivityDetails()
     {
-        $activity_id = 'ABCDE-12345';
+        $activity_id = self::$config['access_token'];
         $this->_testCallResponse('activities_get', compact('activity_id'));
     }
 
@@ -71,7 +71,7 @@ class NikeTest extends PHPUnit_Framework_TestCase
 
     public function testActivityGPSDetails()
     {
-        $activity_id = 'ABCDE-12345';
+        $activity_id = self::$config['access_token'];
         $this->_testCallResponse('activities_get_gps', compact('activity_id'));
     }
 
