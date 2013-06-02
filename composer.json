@@ -1,0 +1,26 @@
+{
+    "name": "desmondmorris/nike-php",
+    "type": "library",
+    "description": "An un-official NIke API wrapper written in PHP",
+    "keywords": ["nike", "fuelband"],
+    "homepage": "https://github.com/desmondmorris/nike-php",
+    "license" : "MIT",
+    "authors": [
+    {
+      "name": "Desmond Morris",
+      "homepage": "http://www.desmondmorris.com"
+    }
+  ],
+  "autoload": {
+     "classmap": [
+       "lib/Nike/"
+     ]
+  },
+  "require": {
+    "php": ">= 5.3.0",
+        "ext-curl": "*"
+    },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  }
+}
