@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/desmondmorris/nike-php.png?branch=master)](https://travis-ci.org/desmondmorris/nike-php)
 
-Nike+ API PHP Wrapper 
+[![wercker status](https://app.wercker.com/status/ccfb889668b9ed6c96fa79efba739e13 "wercker status")](https://app.wercker.com/project/bykey/ccfb889668b9ed6c96fa79efba739e13)
+
+Nike+ API PHP Wrapper
 =========
 
 An un-official Nike+ API wrapper written in PHP
