@@ -6,7 +6,7 @@ build:
       # and the code value contains the command that get executed
       - script:
           name: install dependencies
-          code: composer install --no-interaction
+          code: composer install --dev --no-interaction
       - script:
           name: echo php information
           code: |
@@ -15,4 +15,4 @@ build:
       # Add more steps here:
       - script:
           name: run unit tests
-          code: phpunit
+          code: phpunit --bootstrap vendor/autoload.php test
